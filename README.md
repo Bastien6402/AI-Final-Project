@@ -27,8 +27,8 @@ This repository serves as the public record of our group work.
 
 | File / Item | Description | Contributors |
 | :--- | :--- | :--- |
-| **[Predictive_Maintenance_AI.ipynb](Predictive_Maintenance_AI.ipynb)** | The main Python notebook containing data loading, preprocessing, visualization, and the Random Forest model. | [Name 1] (60%), [Name 2] (40%) |
-| **README.md** | Project documentation and overview. | [Name 1] (100%) |
+| **[Predictive_Maintenance_AI.ipynb](Predictive_Maintenance_AI.ipynb)** | The main Python notebook containing data loading, preprocessing, visualization, and the Random Forest model. | Bastien (50%), Mael0 (50%) |
+| **README.md** | Project documentation and overview. | Bastien (100%) |
 | **Data Source** | NASA C-MAPSS Data (Loaded dynamically in the code). | NASA (External Source) |
 
 ---
