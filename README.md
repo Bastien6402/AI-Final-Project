@@ -6,14 +6,14 @@
 
 ---
 
-## 👥 The Team
-* **Student 1:** DESPONGE Bastien - st63806
-* **Student 2:** COEYTAUX Mael - st63798
+##  The Team
+ **Student 1:** DESPONGE Bastien - st63806
+ **Student 2:** COEYTAUX Mael - st63798
 
 
 ---
 
-## ✈️ Project Overview
+##  Project Overview
 This project applies Artificial Intelligence techniques to address a critical challenge in aviation engineering: **Predictive Maintenance**.
 Using the NASA C-MAPSS (Turbofan Engine Degradation Simulation) dataset, we developed a Machine Learning model capable of predicting the **RUL (Remaining Useful Life)** of an aircraft engine. The goal is to forecast engine failure before it occurs to optimize maintenance schedules and improve safety.
 
@@ -21,7 +21,7 @@ Using the NASA C-MAPSS (Turbofan Engine Degradation Simulation) dataset, we deve
 
 ---
 
-## 📂 Project Portfolio (Table of Contents)
+##  Project Portfolio (Table of Contents)
 
 This repository serves as the public record of our group work.
 
@@ -33,7 +33,7 @@ This repository serves as the public record of our group work.
 
 ---
 
-## 📊 Methodology & Results
+##  Methodology & Results
 
 ### 1. Data Preparation
 We processed the raw sensor data to calculate the ground truth RUL for each engine. We visualized the degradation trends of key sensors (e.g., sensor s11) to confirm the correlation between sensor values and engine wear.
@@ -49,13 +49,13 @@ The comparison plot (Prediction vs. Reality) demonstrates that the AI successful
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 1. Open the `.ipynb` file in Google Colab.
 2. Upload the `train_FD001.txt` dataset (available from Kaggle or NASA repository).
 3. Run all cells sequentially.
 
 ---
 
-## 🔄 Process Evidence
+##  Process Evidence
 * **Communication:** We used weekly meetings to coordinate tasks.
 * **Tools:** Google Colab for development, GitHub for version control.
