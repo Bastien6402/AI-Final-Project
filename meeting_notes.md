@@ -1,6 +1,6 @@
 # Project Meeting Minutes & Progress Log
 
-**Team:** [Name 1] & [Name 2]
+**Team:** Bastien & Mael
 **Module:** C-250-01
 **Topic:** AI for Predictive Maintenance
 
@@ -17,8 +17,8 @@
 - **Topic Selected:** Predictive Maintenance for Aircraft Engines.
 - **Data Source:** We decided to use the NASA C-MAPSS dataset (Turbofan degradation) as it is the industry standard for this type of problem.
 - **Roles:**
-    - [Name 1]: Lead Developer (Python/Colab) & Data Analysis.
-    - [Name 2]: Documentation (GitHub) & Presentation structure.
+    - Mael: Lead Developer (Python/Colab) & Data Analysis.
+    - Bastien: Documentation (GitHub) & Presentation structure.
 
 ---
 
